@@ -2,7 +2,7 @@
   "name": "hubot-wolfram",
   "description": "Hubot script to query Wolfram Alpha.",
   "version": "1.0.8",
-  "main": "./src/wolfram",
+  "main": "index.coffee",
   "repository": {
     "type": "git",
     "url": "https://github.com/notpeter/hubot-wolfram.git"
